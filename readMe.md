@@ -1,5 +1,7 @@
 ## Comparision of Various TCP Congestion Algorithms
 
+### Nvm the whole stuff, script that evaluates times and shows a graph is not uploaded. 
+
 #### Instalation Process
 1. Clone The Project
 2. Install required Modules _thread, time, select, socket
